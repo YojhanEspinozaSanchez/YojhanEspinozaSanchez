@@ -1,4 +1,4 @@
-<h2>💻 Software Engineer | Entry-level Developer | Passionate about scalable solutions</h2>
+<h2>💻 Software Engineer | Entry-level Developer | Technical Support</h2>
 
 <p><strong>🚀 Advanced student in Computer Engineering</strong> focusing on developing robust and efficient desktop applications with a strong foundation in object-oriented programming, concurrent programming, and data structures. Skilled in <em>C++, Java, C#, and SQL.</em></p>
 
