@@ -1,17 +1,18 @@
-💻 Entry-level Developer | Passionate about scalable solutions
+<h2>💻 Software Engineer | Entry-level Developer | Passionate about scalable solutions</h2>
 
-🚀 Advanced student in Computer Engineering, focusing on developing robust and efficient desktop applications with a strong foundation in object-oriented programming, concurrent programming, and data structures. Skilled in C++, Java, C#, and SQL.
+<p><strong>🚀 Advanced student in Computer Engineering</strong> focusing on developing robust and efficient desktop applications with a strong foundation in object-oriented programming, concurrent programming, and data structures. Skilled in <em>C++, Java, C#, and SQL.</em></p>
 
-🎯 Experienced in creating layered applications with a solid grasp of TCP, Sockets, and Threads for real-time communication. Adept at UI development and blackbox testing.
+<p><strong>🎯 Experienced in:</strong></p>
+<ul>
+  <li>Creating layered applications with TCP, Sockets, and Threads for real-time communication.</li>
+  <li>UI development and blackbox testing.</li>
+</ul>
 
-🔧 Proficient in MySQL Workbench, MS SQL Server, and PL-SQL, with hands-on experience in Agile methodologies.
+<p><strong>🔧 Proficient in:</strong> MySQL Workbench, MS SQL Server, and PL-SQL, with hands-on experience in Agile methodologies.</p>
 
-🌱 Constantly learning and growing, aiming to contribute to innovative projects in the IT industry.
+<p><strong>🌱 Constantly learning and growing,</strong> aiming to contribute to innovative projects in the IT industry.</p>
 
-🔍 Open to opportunities in software development and technical support.
+<p><strong>🔍 Open to opportunities in software development and technical support.</strong></p>
 
 
-<!---
-YojhanEspinozaSanchez/YojhanEspinozaSanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![meme-betterttv](https://github.com/user-attachments/assets/ca519fbb-f135-43c8-8664-4f0008d9162c)
